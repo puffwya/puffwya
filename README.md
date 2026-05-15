@@ -15,5 +15,4 @@ Currently learning:
 Contact:
 Email: **puffwya000@gmail.com**
 
-LinkedIn:  
-www.linkedin.com/in/wyatt-puff
+LinkedIn: **www.linkedin.com/in/wyatt-puff**

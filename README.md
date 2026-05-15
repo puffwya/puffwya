@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Wyatt 👋
 
-<!--
-**puffwya/puffwya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer focused on full-stack applications, game development, and systems programming.
 
-Here are some ideas to get you started:
+I enjoy building scalable applications, backend systems, and interactive experiences while exploring software architecture, performance optimization, and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Top Projects
+
+### WorkflowHub
+Full-stack workflow and task management platform built with React and ASP.NET Core.
+
+- Implemented JWT authentication, protected API endpoints, and role-based authorization
+- Designed normalized relational database architecture with Entity Framework
+- Built RESTful APIs for task management, workflow operations, and audit logging
+- Containerized and deployed backend services using Docker
+
+---
+
+### E-Commerce Backend
+Java Spring Boot backend application with layered architecture and RESTful APIs.
+
+- Designed backend systems for authentication, products, and user workflows
+- Implemented request validation and structured routing
+- Built relational data models using object-oriented design principles
+
+---
+
+### Calorie Tracking Application
+Full-stack nutrition tracking platform integrating external APIs and persistent user data.
+
+- Integrated USDA nutrition APIs for real-time food and nutrition data
+- Developed authentication and backend request handling systems
+- Added logging and activity tracking functionality
+
+---
+
+### 2.5D Game Engine
+Custom BSP-based rendering engine developed with emphasis on low-level systems and performance.
+
+- Built collision detection, entity systems, and AI behavior systems
+- Implemented real-time rendering and gameplay architecture
+- Added cross-platform support for Intel and ARM Mac systems
+
+---
+
+## Tech Stack
+
+`C#` `ASP.NET Core` `React` `JavaScript` `C++` `SQL` `Docker` `Python`
+
+---
+
+## Currently Learning
+
+- Authentication & security systems
+- Scalable application architecture
+- Cloud deployment workflows
+- Machine learning tools
+- MediaPipe
+
+---
+
+## Contact
+
+Email: **puffwya000@gmail.com**
+
+LinkedIn:  
+https://www.linkedin.com/in/wyatt-puff/

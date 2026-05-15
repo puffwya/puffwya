@@ -13,6 +13,9 @@ Currently learning:
 - ML tools and MediaPipe
 
 Contact:
-Email: **puffwya000@gmail.com**
 
-LinkedIn: **www.linkedin.com/in/wyatt-puff**
+[Email](puffwya000@gmail.com)
+
+[LinkedIn](www.linkedin.com/in/wyatt-puff)
+
+[Portfolio](https://puffwya.github.io/Portfolio-Site/)

@@ -12,10 +12,10 @@ Currently learning:
 - Distributed systems
 - ML tools and MediaPipe
 
-Contact:
+---
 
-[Email](puffwya000@gmail.com)
+## Contact
 
-[LinkedIn](www.linkedin.com/in/wyatt-puff)
-
-[Portfolio](https://puffwya.github.io/Portfolio-Site/)
+Email: [puffwya000@gmail.com](mailto:puffwya000@gmail.com)  
+LinkedIn: https://www.linkedin.com/in/wyatt-puff/  
+Portfolio: https://puffwya.github.io/Portfolio-Site/
